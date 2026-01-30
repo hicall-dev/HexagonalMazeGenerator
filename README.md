@@ -1,2 +1,1 @@
-# Project-Skripsi
-Unity Editor Version 2021.3.1f1
+# Hexagonal Maze Generator using Wilson Algorithm
